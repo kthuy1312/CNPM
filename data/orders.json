@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "customerId": 1,
+        "restaurantId": 1,
+        "deliveryAddress": "1 Le Loi, Q1, HCM",
+        "status": "pending",
+        "droneId": null,
+        "items": [
+            {
+                "menuItemId": 1,
+                "name": "Pho Bo",
+                "quantity": 2,
+                "price": 50000,
+                "lineTotal": 100000
+            }
+        ],
+        "totalPrice": 100000
+    },
+    {
+        "id": 2,
+        "customerId": 2,
+        "restaurantId": 2,
+        "deliveryAddress": "2 Nguyen Hue, Q1, HCM",
+        "status": "enroute",
+        "droneId": 2,
+        "items": [
+            {
+                "menuItemId": 3,
+                "name": "Com Tam Suon",
+                "quantity": 1,
+                "price": 45000,
+                "lineTotal": 45000
+            }
+        ],
+        "totalPrice": 45000
+    },
+    {
+        "id": 3,
+        "customerId": 3,
+        "restaurantId": 3,
+        "deliveryAddress": "3 Vo Van Tan, Q3, HCM",
+        "status": "delivered",
+        "droneId": 1,
+        "items": [
+            {
+                "menuItemId": 5,
+                "name": "Hu Tieu Nam Vang",
+                "quantity": 1,
+                "price": 55000,
+                "lineTotal": 55000
+            }
+        ],
+        "totalPrice": 55000
+    },
+    {
+        "id": 4,
+        "customerId": 4,
+        "restaurantId": 4,
+        "deliveryAddress": "4 Hai Ba Trung, Q1, HCM",
+        "status": "cancelled",
+        "droneId": null,
+        "items": [
+            {
+                "menuItemId": 8,
+                "name": "Mi Quang",
+                "quantity": 1,
+                "price": 65000,
+                "lineTotal": 65000
+            }
+        ],
+        "totalPrice": 65000
+    },
+    {
+        "id": 5,
+        "customerId": 5,
+        "restaurantId": 5,
+        "deliveryAddress": "5 Dien Bien Phu, Q3, HCM",
+        "status": "awaiting_drone",
+        "droneId": null,
+        "items": [
+            {
+                "menuItemId": 9,
+                "name": "Cha Gio",
+                "quantity": 3,
+                "price": 28000,
+                "lineTotal": 84000
+            }
+        ],
+        "totalPrice": 84000
+    }
+]

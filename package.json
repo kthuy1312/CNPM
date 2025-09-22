@@ -1,0 +1,21 @@
+{
+    "name": "foodfast-backend",
+    "version": "1.0.0",
+    "description": "FoodFast drone-powered food delivery backend implemented with a three-layer architecture in Node.js",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "node src/server.js",
+        "dev": "node src/server.js",
+        "test": "echo \"No automated tests configured\""
+    },
+    "keywords": [
+        "foodfast",
+        "delivery",
+        "drone",
+        "node",
+        "backend"
+    ],
+    "author": "",
+    "license": "MIT",
+    "type": "commonjs"
+}

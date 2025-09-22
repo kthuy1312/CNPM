@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "restaurantId": 1,
+        "name": "Pho Bo",
+        "price": 50000,
+        "isAvailable": true
+    },
+    {
+        "id": 2,
+        "restaurantId": 1,
+        "name": "Banh Mi Thit",
+        "price": 25000,
+        "isAvailable": true
+    },
+    {
+        "id": 3,
+        "restaurantId": 2,
+        "name": "Com Tam Suon",
+        "price": 45000,
+        "isAvailable": false
+    },
+    {
+        "id": 4,
+        "restaurantId": 2,
+        "name": "Goi Cuon",
+        "price": 30000,
+        "isAvailable": true
+    },
+    {
+        "id": 5,
+        "restaurantId": 3,
+        "name": "Hu Tieu Nam Vang",
+        "price": 55000,
+        "isAvailable": true
+    },
+    {
+        "id": 6,
+        "restaurantId": 3,
+        "name": "Bun Bo Hue",
+        "price": 60000,
+        "isAvailable": true
+    },
+    {
+        "id": 7,
+        "restaurantId": 4,
+        "name": "Bun Thit Nuong",
+        "price": 40000,
+        "isAvailable": true
+    },
+    {
+        "id": 8,
+        "restaurantId": 4,
+        "name": "Mi Quang",
+        "price": 65000,
+        "isAvailable": false
+    },
+    {
+        "id": 9,
+        "restaurantId": 5,
+        "name": "Cha Gio",
+        "price": 28000,
+        "isAvailable": true
+    },
+    {
+        "id": 10,
+        "restaurantId": 5,
+        "name": "Banh Xeo",
+        "price": 35000,
+        "isAvailable": true
+    },
+    {
+        "id": 11,
+        "restaurantId": 6,
+        "name": "Ca Kho To",
+        "price": 70000,
+        "isAvailable": true
+    },
+    {
+        "id": 12,
+        "restaurantId": 6,
+        "name": "Thit Kho Trung",
+        "price": 55000,
+        "isAvailable": true
+    },
+    {
+        "id": 13,
+        "restaurantId": 7,
+        "name": "Ga Nuong Mat Ong",
+        "price": 85000,
+        "isAvailable": false
+    },
+    {
+        "id": 14,
+        "restaurantId": 7,
+        "name": "Lau Thai",
+        "price": 120000,
+        "isAvailable": true
+    },
+    {
+        "id": 15,
+        "restaurantId": 8,
+        "name": "Bo Kho",
+        "price": 65000,
+        "isAvailable": true
+    },
+    {
+        "id": 16,
+        "restaurantId": 8,
+        "name": "Oc Len Xao Dua",
+        "price": 75000,
+        "isAvailable": true
+    },
+    {
+        "id": 17,
+        "restaurantId": 9,
+        "name": "Vit Quay",
+        "price": 150000,
+        "isAvailable": true
+    },
+    {
+        "id": 18,
+        "restaurantId": 9,
+        "name": "Canh Chua Ca",
+        "price": 80000,
+        "isAvailable": true
+    },
+    {
+        "id": 19,
+        "restaurantId": 10,
+        "name": "Banh Canh Cua",
+        "price": 70000,
+        "isAvailable": true
+    },
+    {
+        "id": 20,
+        "restaurantId": 10,
+        "name": "Banh Cuon",
+        "price": 40000,
+        "isAvailable": true
+    }
+]

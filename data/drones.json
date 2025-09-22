@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "model": "DJI Matrice 300",
+        "status": "available",
+        "batteryLevel": 95
+    },
+    {
+        "id": 2,
+        "model": "DJI Phantom 4",
+        "status": "delivering",
+        "batteryLevel": 60
+    },
+    {
+        "id": 3,
+        "model": "Parrot Anafi",
+        "status": "charging",
+        "batteryLevel": 15
+    },
+    {
+        "id": 4,
+        "model": "DJI Inspire 2",
+        "status": "available",
+        "batteryLevel": 80
+    },
+    {
+        "id": 5,
+        "model": "Skydio 2",
+        "status": "available",
+        "batteryLevel": 70
+    },
+    {
+        "id": 6,
+        "model": "DJI Air 2S",
+        "status": "delivering",
+        "batteryLevel": 50
+    },
+    {
+        "id": 7,
+        "model": "DJI Mini 3 Pro",
+        "status": "available",
+        "batteryLevel": 100
+    },
+    {
+        "id": 8,
+        "model": "DJI Mavic 3",
+        "status": "charging",
+        "batteryLevel": 20
+    },
+    {
+        "id": 9,
+        "model": "Parrot Bebop 2",
+        "status": "available",
+        "batteryLevel": 85
+    },
+    {
+        "id": 10,
+        "model": "DJI Phantom 3",
+        "status": "available",
+        "batteryLevel": 90
+    },
+    {
+        "id": 11,
+        "model": "Autel EVO 2",
+        "status": "delivering",
+        "batteryLevel": 55
+    },
+    {
+        "id": 12,
+        "model": "DJI Matrice 200",
+        "status": "available",
+        "batteryLevel": 75
+    },
+    {
+        "id": 13,
+        "model": "DJI Spark",
+        "status": "charging",
+        "batteryLevel": 10
+    },
+    {
+        "id": 14,
+        "model": "DJI Phantom 4 Pro",
+        "status": "available",
+        "batteryLevel": 65
+    },
+    {
+        "id": 15,
+        "model": "Skydio X2",
+        "status": "available",
+        "batteryLevel": 88
+    },
+    {
+        "id": 16,
+        "model": "DJI Mavic Air",
+        "status": "delivering",
+        "batteryLevel": 40
+    },
+    {
+        "id": 17,
+        "model": "DJI Mini 2",
+        "status": "available",
+        "batteryLevel": 92
+    },
+    {
+        "id": 18,
+        "model": "DJI FPV",
+        "status": "charging",
+        "batteryLevel": 5
+    },
+    {
+        "id": 19,
+        "model": "Parrot Disco",
+        "status": "available",
+        "batteryLevel": 78
+    },
+    {
+        "id": 20,
+        "model": "DJI Inspire 1",
+        "status": "available",
+        "batteryLevel": 83
+    }
+]
